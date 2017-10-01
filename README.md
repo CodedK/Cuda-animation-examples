@@ -4,5 +4,6 @@ Simple animation tutorials using CUDA
 Basic examples of animation creation uisng CUDA-C code. Enough to get you stared playing around.
 
 
-
-![Cloth](https://github.com/CodedK/Cuda-animation-examples/blob/master/assets/98989.PNG)
+#Cloth
+![Cloth](https://github.com/CodedK/Cuda-animation-examples/blob/master/assets/cloth1.png)
+![Cloth](https://github.com/CodedK/Cuda-animation-examples/blob/master/assets/cloth2.png)
