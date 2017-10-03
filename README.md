@@ -14,5 +14,6 @@ Basic examples of animation creation uisng CUDA-C code. Enough to get you starte
 <br><br>
 
 #Fractals
-- Animates the generation of a dragon fractal
+- Animates the generation of a dragon fractal<br>
+![Fractal](https://github.com/CodedK/Cuda-animation-examples/blob/master/assets/fractal.gif)
 
