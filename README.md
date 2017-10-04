@@ -21,8 +21,7 @@ Basic examples of animation creation uisng CUDA-C code. Enough to get you starte
 <br><br>
 
 # GLUT for windows
-http://home.ku.edu.tr/~yyemez/Comp410/GLUT%20for%20Windows.html <br>
-![GLUT 3.7](ftp://ftp.sgi.com/opengl/glut/glut3.html.old)
+![GLUT 3.7](ftp://ftp.sgi.com/opengl/glut/glut3.html.old)<br>
 
 # installing GLUT
 https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html
