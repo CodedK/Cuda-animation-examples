@@ -3,6 +3,7 @@ Simple animation tutorials using CUDA
 
 Basic examples of animation creation uisng CUDA-C code. Enough to get you started playing around.
 
+<br><br><br><br>
 
 # Cloth<br>
 - Resemples the animation of a moving transparent surface over another surface<br>
@@ -20,7 +21,7 @@ Basic examples of animation creation uisng CUDA-C code. Enough to get you starte
 <br><br>
 
 # GLUT for windows
-http://home.ku.edu.tr/~yyemez/Comp410/GLUT%20for%20Windows.html
+http://home.ku.edu.tr/~yyemez/Comp410/GLUT%20for%20Windows.html <br>
 ![GLUT 3.7](ftp://ftp.sgi.com/opengl/glut/glut3.html.old)
 
 # installing GLUT
