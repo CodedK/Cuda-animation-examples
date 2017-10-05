@@ -24,7 +24,7 @@ Basic examples of animation creation uisng CUDA-C code. Enough to get you starte
 ![GLUT 3.7](ftp://ftp.sgi.com/opengl/glut/glut3.html.old)<br>
 
 # GLUT library
-- (The OpenGL Utility Toolkit and how to install it)
+- (The OpenGL Utility Toolkit and how to install it)<br>
 ![Glut Library](https://www.opengl.org/resources/libraries/glut/glut_downloads.php)<br>
 ![How to install GLUT](https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html)
 
