@@ -27,6 +27,6 @@ Basic examples of animation creation uisng CUDA-C code. Enough to get you starte
 - (The OpenGL Utility Toolkit and how to install it)<br>
 ![Glut Library](https://www.opengl.org/resources/libraries/glut/glut_downloads.php)<br>
 ![How to install GLUT](http://home.ku.edu.tr/~yyemez/Comp410/GLUT%20for%20Windows.html)<br>
-![How to install GLUT](https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html)
+![How to install GLUT](https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html)<br>
 ![stack help](https://stackoverflow.com/questions/9234664/how-to-install-glut-on-a-64-bit-windows-7-for-ms-vs2010)
 
