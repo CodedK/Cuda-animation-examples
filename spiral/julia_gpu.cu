@@ -106,25 +106,3 @@ int main( void ) {
         (void (*)(uchar4*,void*,int)) generate_frame, NULL
     );
 }
-
-
-
-// int main( void ) {
-// 	int ticks;
-// 	DataBlock   data;
-// 	CPUBitmap bitmap( DIM, DIM, &data );
-// 	unsigned char    *dev_bitmap;
-// 	HANDLE_ERROR( cudaMalloc( (void**)&dev_bitmap, bitmap.image_size() ) );
-// 	data.dev_bitmap = dev_bitmap;
-// 	dim3    grid(DIM,DIM);
-// 	// dim3    grid(DIM/16,DIM/16);
-// 	// dim3    threads(16,16);
-// 	ticks=0;
-// 	kernel<<<grid,1>>>( dev_bitmap, ticks );
-// 	// kernel<<<grid,1>>>( dev_bitmap );
-// 	HANDLE_ERROR( cudaMemcpy( bitmap.get_ptr(), dev_bitmap,
-// 							  bitmap.image_size(),
-// 							  cudaMemcpyDeviceToHost ) );
-// 	HANDLE_ERROR( cudaFree( dev_bitmap ) );
-// 	bitmap.display_and_exit();
-// }
